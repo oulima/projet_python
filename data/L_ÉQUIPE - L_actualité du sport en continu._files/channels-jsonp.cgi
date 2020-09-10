@@ -1,0 +1,1 @@
+parseResponse({"channels":[{"name":"gs_sport","score":40.283},{"name":"gs_sport_misc","score":11.906},{"name":"gs_sport_tennis","score":9.677},{"name":"gs_entertain","score":7.506},{"name":"custom_senior","score":7.490},{"name":"custom_top14","score":7.251},{"name":"gs_sport_cycling","score":5.900}]});
